@@ -31,7 +31,10 @@ This project analyzes pricing efficiency and sales volume across **$32.9M in tot
 
 ---
 
-## 📂 **Project Repository**
-* **[Interactive Dashboard](./Amazon%20Sales%20Analysis.pbix)**
-* **[Management Presentation](./Amazon.pptx)**
-* **[Dashboard Screenshot](./dashboard_screenshot.png)**
+---
+
+
+## 📂 Project Repository
+* 📊 **[Interactive Dashboard](./Amazon%20Sales%20Analysis.pbix)**
+* 📽️ **[Management Presentation](./Amazon.pptx)**
+* 🖼️ **[Dashboard Screenshot](./Screenshot%202026-03-12%20155855.png)**
